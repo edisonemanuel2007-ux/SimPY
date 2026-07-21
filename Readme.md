@@ -1,15 +1,31 @@
 # Investigación de la librería SimPy
 
-## Integrante
+## ALUMNO:
+
 - Edison Emmanuel Isidro Gutiérrez.
 
 ## Descripción
 
-Este repositorio contiene una investigación sobre la librería SimPy para Python.
+Este repositorio contiene una investigación sobre la librería **SimPy**, una biblioteca de Python utilizada para realizar simulaciones de eventos discretos. Aquí se explica qué es SimPy, sus principales características, aplicaciones y se presentan tres ejemplos prácticos que muestran su funcionamiento.
 
 ## Contenido
 
 - [¿Qué es SimPy?](Que_es_SimPy.md)
-- [Ejemplo 1: Simulación de una fila de atención](Ejemplo1.md)
-- [Ejemplo 2: Simulación de una estación de gasolina](Ejemplo2.md)
-- [Ejemplo 3: Simulación de una fábrica](Ejemplo3.md)
+- [Ejemplo 1](Ejemplo1.md)
+- [Ejemplo 2](Ejemplo2.md)
+- [Ejemplo 3](Ejemplo3.md)
+
+## Objetivo
+
+Conocer el funcionamiento de la librería SimPy y comprender cómo puede utilizarse para modelar y simular procesos del mundo real mediante Python.
+
+## Herramientas utilizadas
+
+- Python 3
+- Librería SimPy
+- GitHub
+- Markdown
+
+## Conclusión
+
+SimPy es una herramienta muy útil para simular sistemas donde ocurren eventos a lo largo del tiempo, permitiendo analizar procesos y optimizar recursos sin necesidad de realizar pruebas en un entorno real.
