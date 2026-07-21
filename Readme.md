@@ -1,5 +1,5 @@
 # Investigación de la librería SimPy
-![Simulación](<img src="imagenes/simpy.gif" width="300">)
+<img src="imagenes/simpy.gif" width="300">
 
 ## ALUMNO:
 
