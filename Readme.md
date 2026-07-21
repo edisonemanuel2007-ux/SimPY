@@ -1,5 +1,5 @@
 # Investigación de la librería SimPy
-![Simulación](https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![Simulación](<img src="imagenes/simpy.gif" width="300">)
 
 ## ALUMNO:
 
