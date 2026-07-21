@@ -23,7 +23,7 @@ Conocer el funcionamiento de la librería SimPy y comprender cómo puede utiliza
 
 ## Herramientas utilizadas
 
-- Python 3
+- Python 
 - Librería SimPy
 - GitHub
 - Markdown
