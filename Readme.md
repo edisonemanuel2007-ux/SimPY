@@ -1,5 +1,5 @@
 # Investigación de la librería SimPy
-<img width="480" height="476" alt="image" src="https://github.com/user-attachments/assets/af5affd5-607f-4efa-9ead-0796e6bad80c" />
+![Simulación](https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
 ## ALUMNO:
 
