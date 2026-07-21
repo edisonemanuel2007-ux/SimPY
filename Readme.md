@@ -29,4 +29,5 @@ Conocer el funcionamiento de la librería SimPy y comprender cómo puede utiliza
 ## Conclusión
 
 SimPy es una herramienta muy útil para simular sistemas donde ocurren eventos a lo largo del tiempo, permitiendo analizar procesos y optimizar recursos sin necesidad de realizar pruebas en un entorno real.
-![Simulación](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
+![Simulación](https://i.pinimg.com/originals/53/49/fe/5349fe58321dae390cceceb02ea9b373.gif)
