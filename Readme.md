@@ -13,9 +13,9 @@ Este repositorio contiene una investigación sobre la librería **SimPy**, una b
 ## Contenido
 
 - [¿Qué es SimPy?](Que_es_SimPy.md)
-- [Ejemplo 1](Ejemplo 1.md)
-- [Ejemplo 2](Ejemplo 2.md)
-- [Ejemplo 3](Ejemplo 3.md)
+- [Ejemplo 1](Ejemplo1.md)
+- [Ejemplo 2](Ejemplo2.md)
+- [Ejemplo 3](Ejemplo3.md)
 
 ## Objetivo
 
