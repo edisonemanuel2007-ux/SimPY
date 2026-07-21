@@ -1,7 +1,7 @@
 # Investigación de la librería SimPy
 
 ## Integrante
-- Tu nombre
+- Edison Emmanuel Isidro Gutiérrez.
 
 ## Descripción
 
