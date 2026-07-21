@@ -1,4 +1,4 @@
-# Investigación de la librería SimPy    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="70">
+#  <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="70">  Investigación de la librería SimPy  
 
 
 
